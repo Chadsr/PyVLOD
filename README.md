@@ -1,4 +1,4 @@
-# Sem Web G16 Implementation
+# Voting Linked Open Data (V-LOD)
 
 Using LD-R
 
